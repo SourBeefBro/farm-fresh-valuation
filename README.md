@@ -16,11 +16,4 @@ A self-directed research project on **Farm Fresh Berhad**, Malaysia's largest fu
 
 ---
 
-## 📌 Roadmap
-
-- [ ] Add sensitivity tables / charts for DCF outputs
-- [ ] Add sector comps analysis
-
----
-
 *Self-directed portfolio project in equity research and credit analysis.*
